@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./music.png" alt="music" width="50%">
+  <img src="./idk.png" alt="music" width="50%">
 </p>
