@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/..." width="80%">
+  <img src="./banner.png" alt="banner" width="80%">
 </p>
