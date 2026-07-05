@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="banner" width="80%">
+  <img src="./banner.png" alt="banner" width="50%">
 </p>
 
 <p align="center">
-  <img src="./idk.png" alt="music" width="50%">
+  <img src="./music.png" alt="music" width="50%">
 </p>
